@@ -1,0 +1,13 @@
+PA2/[Ll]ibrary/
+PA2/[Tt]emp/
+PA2/[Oo]bj/
+PA2/[Ll]ogs/
+PA2/[Uu]ser[Ss]ettings/
+PA2/[Bb]uild/
+PA2/[Bb]uilds/
+PA2/.vs/
+PA2/*.csproj
+PA2/*.sln
+PA2/*.log
+PA2/*.tmp
+PA2/*-results.xml

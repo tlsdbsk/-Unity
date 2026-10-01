@@ -1,0 +1,5 @@
+{
+  "name": "PA2.Portfolio",
+  "references": ["Unity.ugui"],
+  "autoReferenced": true
+}

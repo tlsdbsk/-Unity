@@ -1,0 +1,5 @@
+{
+  "name": "PA2.Portfolio.PlayModeTests",
+  "references": ["PA2.Portfolio"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
